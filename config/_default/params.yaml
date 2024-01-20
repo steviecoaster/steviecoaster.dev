@@ -1,0 +1,70 @@
+############################
+## Author
+############################
+
+author:
+  name: Stephen Valdinger
+  image: author.png
+  greeting: "Sometimes I write my ideas down here."
+  icon: ":tea:"
+
+############################
+## Links
+############################
+
+links:
+  - github: https://github.com/steviecoaster
+  #- link: https://github.com/steviecoaster/steviecoaster.blog#readme
+  - website: https://steviecoaster.dev
+  - x-twitter: https://twitter.com/steviecoaster
+  # - mastodon: 
+  - linkedin: https://www.linkedin.com/in/stephenvaldinger/
+  # - instagram: 
+  # - reddit: 
+  # - telegram: 
+  # - whatsapp: 
+  # - signal: 
+  # - codepen: 
+  # - dev: 
+  # - email: 
+  # - discord: 
+  # - orcid: 
+  # - slack: 
+  # - stack-overflow: 
+  # - twitch: 
+  # - patreon: 
+  # - soundcloud: 
+  # - dribbble: 
+  # - stack-exchange: 
+  # - tiktok: 
+  # - youtube: 
+  # - keybase: 
+  # - flickr: 
+  # - tumblr: 
+  # - kickstarter: 
+  # - snapchat:
+  # - bluesky: 
+  # - bitbucket: 
+  # - bandcamp: 
+  # - etsy: 
+  # - spotify: 
+  # - pinterest: 
+  # - strava: 
+  # - untappd: 
+  # - skype: 
+  # - medium: 
+  # - foursquare: 
+  # - apple: 
+  # - amazon:
+  # - google:
+  # - paypal:
+  # - windows:
+
+###############################
+## OpenGraph & Twitter Cards
+###############################
+
+title: Coaster Corner
+description: "Musings of a Mad Scientist"
+images:
+  - thumbnail.png
