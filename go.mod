@@ -1,4 +1,4 @@
-module github.com/steviecoaster.github.io
+module github.com/steviecoaster/steviecoaster.dev
 
 go 1.21.6
 
