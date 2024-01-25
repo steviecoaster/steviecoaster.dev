@@ -4,8 +4,9 @@ name: Build & Deploy Hugo site to Pages
 
 # Will fire when a new release is published
 on:
-  release:
-    types: [published]
+  push:
+    branches:
+      - main
 
 # Change the above to this if you want to build and deploy on every push, but
 # be mindful of overuse. Free accounts have a limited amount of
