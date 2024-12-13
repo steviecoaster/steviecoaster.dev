@@ -12,3 +12,6 @@ main:
 - name: About
   url: /about/
   weight: 30
+- name: RSS
+  url: "https://steviecoaster.dev/index.xml"
+  weight: 40

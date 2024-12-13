@@ -8,9 +8,15 @@ title: What the Shell?!
 ############################
 ## MISC
 ############################
-
+outputs:
+  home:
+    - HTML
+    - RSS
 enableEmoji: true
 disableKinds: ['taxonomy', 'term']
 languageCode: 'en-us'
-
-
+markup:
+  tableOfContents:
+    startLevel: 2
+    endLevel: 3
+    ordered: false
