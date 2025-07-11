@@ -1,5 +1,7 @@
 module github.com/steviecoaster/steviecoaster.dev
 
-go 1.21.6
+go 1.22.2
 
-require github.com/chrede88/qubt v1.2.5 // indirect
+toolchain go1.23.3
+
+require github.com/chrede88/qubt v1.5.0 // indirect
